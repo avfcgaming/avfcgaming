@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @avfcgaming
-- 👀 I’m interested in sports cars 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
+- 👀 I’m interested in sports cars
+- 💞️ I’m looking to collaborate on youtube videos 
+- 📫 You can go on youtube and subscribe to Avfc Gaming
 
 <!---
 avfcgaming/avfcgaming is a ✨ demon in disguise ✨  because its `README.md` (this file) appears on your GitHub profile.
